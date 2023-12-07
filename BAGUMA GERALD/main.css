@@ -1,0 +1,35 @@
+body{
+    background-color: burlywood;
+
+}
+#head{
+    text-align: center;
+    color: blue;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+}
+#nav1{
+    background-color:chocolate ;
+    color: aliceblue;
+    text-align: center;
+    padding: 20px;
+}
+#prof{
+
+    text-align: center;
+    color: blue;
+}
+#ded{
+    background-color: cornflowerblue;
+    color: aliceblue;
+    text-align: center;
+    height: fit-content;
+    width: 50%;
+}
+
+#care{
+    color: blueviolet;
+    background-color: cornflowerblue;
+    width: fit-content;
+    height: fit-content;
+}
